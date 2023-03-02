@@ -1,4 +1,4 @@
-# 💫 About Me: Hey, I'm Linh
+# 💫 About Me: 
 🔭  Frontend developer, I create web pages with UI / UX user interface.
 
 
